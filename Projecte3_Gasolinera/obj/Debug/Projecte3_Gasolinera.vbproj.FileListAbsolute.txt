@@ -1,0 +1,20 @@
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\bin\Debug\Projecte3_Gasolinera.exe.config
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\bin\Debug\Projecte3_Gasolinera.exe
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\bin\Debug\Projecte3_Gasolinera.pdb
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\bin\Debug\Projecte3_Gasolinera.xml
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.vbprojResolveAssemblyReference.cache
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form1.resources
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form2.resources
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form3.resources
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Resources.resources
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.vbproj.GenerateResource.Cache
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.exe
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.xml
+c:\users\izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.pdb
+C:\Users\Izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form5.resources
+C:\Users\Izaya\documents\visual studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form6.resources
+C:\Users\Izaya\Documents\Visual Studio 2015\Projects\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.Form4.resources
+C:\IESCAPARRELLA\DAM2\Projecte\Project3\Projecte3_Gasolinera\Projecte3_Gasolinera\bin\Debug\Projecte3_Gasolinera.exe.config
+C:\IESCAPARRELLA\DAM2\Projecte\Project3\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.exe
+C:\IESCAPARRELLA\DAM2\Projecte\Project3\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.xml
+C:\IESCAPARRELLA\DAM2\Projecte\Project3\Projecte3_Gasolinera\Projecte3_Gasolinera\obj\Debug\Projecte3_Gasolinera.pdb
